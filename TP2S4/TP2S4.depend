@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1585654227 source:c:\users\toinou\documents\école\prépa_2\info\tp2s4\sommet.cpp
+	"Sommet.h"
+
+1585605490 c:\users\toinou\documents\école\prépa_2\info\tp2s4\sommet.h
+	<iostream>
+	<vector>
+
+1585654375 source:c:\users\toinou\documents\école\prépa_2\info\tp2s4\graphe.cpp
+	"Graphe.h"
+	"Graphe.h"
+	<fstream>
+	<queue>
+	<stack>
+
+1585606718 c:\users\toinou\documents\école\prépa_2\info\tp2s4\graphe.h
+	<iostream>
+	<vector>
+	<string>
+	"Sommet.h"
+
+1585654866 source:c:\users\toinou\documents\école\prépa_2\info\tp2s4\main.cpp
+	<iostream>
+	"Graphe.h"
+
